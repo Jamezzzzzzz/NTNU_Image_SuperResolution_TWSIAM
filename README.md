@@ -16,6 +16,5 @@ RLOESS was generalized from a 1D to a 2D local regression by redefining its kern
 - `Lu_ShaoChun_SciComp_Report.pdf` — Full written report detailing methodology and numerical results.  
 - `sample_input.png` — Example of low-resolution input image.  
 - `sample_output_LS.png` — Super-resolved image using Least Squares model.  
-- `sample_output_RLOESS.png` — Final output using Robust LOESS enhancement.
 
 *(All figures shown are for educational purposes.)*
